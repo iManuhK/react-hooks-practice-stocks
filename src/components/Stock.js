@@ -1,6 +1,6 @@
 import React from "react";
 
-function Stock() {
+function Stock({stock}) {
   return (
     <div>
       <div className="card">
